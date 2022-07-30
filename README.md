@@ -1,1 +1,1 @@
-# python_socket
+# 这是一个用于测试socket通信的程序。
